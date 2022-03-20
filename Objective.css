@@ -1,0 +1,39 @@
+p {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 5px;
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+  }
+  
+  ul,ol,dl,p {
+    font-size: 1rem;
+  }
+  
+  li, p {
+    line-height: 1.5;
+  }
+  
+  /* Description list styles */
+  
+  dd, dt {
+    line-height: 1.5;
+  }
+  
+  dt {
+    font-weight: bold;
+  }
+
+body {
+
+    background-color: white;
+    background-image: linear-gradient(90deg, white 0%, #63ada7 100%);
+}
+h2 {
+        text-align: center;
+        font-style: oblique;
+        font-weight: bold;
+        font-size: 1.3rem;
+        color:rgb(107, 93, 170);
+}
