@@ -1,7 +1,12 @@
-Read index on main branch
+
 <br>
-Locate other branches and read in following order:
+Locate and read in following order:
 <br>
-UATSpace
-Objectives
+Main- index.html
+<br>
+UATSpace- UATSpace.html
+<br>
+Degree- Objectives.html
+<br>
+Appreciation- Tabs.html
 
