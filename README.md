@@ -1,5 +1,6 @@
-Read index on main brnach
+Read 
 Locate other branches and read in following order:
-UATSpace
-Objectives
-Appriciation
+Main- index.html
+UATSpace- UATSpace.html
+Objectives- Objectives.html
+Appriciation- Appriciation.html
