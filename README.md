@@ -1,4 +1,6 @@
-Go to the tab that says MAIN above profile icon to the left.
+In NatashaR1294/github.io go to the <>Code tab below
+<br>
+Go to the tab that says MAIN above profile icon to the left. 
 <br>
 Click and navigate the four tabs.
 <br>
